@@ -1,4 +1,5 @@
 streamlit
-Pillow
 easyocr
+torch
 numpy
+pillow  # for handling images
