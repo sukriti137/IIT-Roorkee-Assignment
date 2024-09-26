@@ -1,5 +1,5 @@
-streamlit
-easyocr
-torch
-numpy
-pillow  # for handling images
+streamlit==1.22.0
+easyocr==1.6.2
+numpy==1.23.5
+Pillow==10.0.0
+torch==2.0.1 
